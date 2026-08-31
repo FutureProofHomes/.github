@@ -28,7 +28,7 @@ In a world where technology evolves rapidly, your smart home should adapt too. O
 - **YouTube**: [FutureProofHomes YouTube Channel](https://www.youtube.com/@futureproofhomes)
 - **Documentation**: [FutureProofHomes Docs](https://docs.futureproofhomes.net/)
 - **Blog**: [Company Blog](https://futureproofhomes.net/blogs/news)
-- **X (formerly Twitter)**: [@aivoiceassist](https://x.com/fphofficial)
+- **X (formerly Twitter)**: [@fphofficial](https://x.com/fphofficial)
 - **Discord Community**: [Join our Discord](https://discord.com/invite/BeBjWEPzMV)
 
 ## 🤝 Open-Source and Partnerships
